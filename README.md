@@ -76,4 +76,4 @@ function factorial($number) {
 // Testing the factorial function
 echo factorial(5); // Output: 120
 
-![Snake animation](https://github.com/gauravc21609/gauravc21609./blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gauravc21609/gauravc21609/blob/output/github-contribution-grid-snake.svg)
