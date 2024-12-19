@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://media.licdn.com/dms/image/v2/D4D03AQHGuDqfjjc26g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1701009670816?e=1740009600&v=beta&t=bGpOQeuXh2BIsv6AW75yPSSU4V96TT-kPJnRBkOEEvA">
-  <source media="(prefers-color-scheme: light)" srcset="https://media.licdn.com/dms/image/v2/D4D03AQHGuDqfjjc26g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1701009670816?e=1740009600&v=beta&t=bGpOQeuXh2BIsv6AW75yPSSU4V96TT-kPJnRBkOEEvA">
-  <img alt="Gaurav Chauhan" src="https://media.licdn.com/dms/image/v2/D4D03AQHGuDqfjjc26g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1701009670816?e=1740009600&v=beta&t=bGpOQeuXh2BIsv6AW75yPSSU4V96TT-kPJnRBkOEEvA" class="profile-image">
-</picture>
+
 
 ## About Me
 
