@@ -68,3 +68,12 @@ function faceChallenge($day) {
     return "Learn. Build. Repeat. " . faceChallenge($day - 1);
 }
 
+// Developer's mantra
+echo "// In every challenge you face, remember:\n";
+echo "// Learn. Build. Repeat.\n";
+echo "// For each day you show up, you're not starting over —\n";
+echo "// you're recursing into greatness.\n\n";
+
+// Let's echo the motivation
+echo faceChallenge(3);
+
