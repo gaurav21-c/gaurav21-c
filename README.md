@@ -50,6 +50,7 @@ Let’s stay connected! Feel free to reach out through any of these channels:
 - [LinkedIn](https://www.linkedin.com/in/gaurav-chauhan/)  
 - [Email](mailto:gchauhan21609@gmail.com)  
 - [Portfolio](https://gaurav21-c.github.io/myPortfolio/)
+- [linktr](https://linktr.ee/gaurav21609)
 
 ---
 
