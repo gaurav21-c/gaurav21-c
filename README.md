@@ -61,15 +61,10 @@ Let’s stay connected! Feel free to reach out through any of these channels:
 Here's an example of clean, maintainable PHP code I work with:
 
 ```php
-// Recursive function to calculate factorial
-function factorial($number) {
-    if ($number <= 1) {
-        return 1;
+function faceChallenge($day) {
+    if ($day <= 1) {
+        return "Keep going.";
     }
-    return $number * factorial($number - 1);
+    return "Learn. Build. Repeat. " . faceChallenge($day - 1);
 }
 
-// Testing the factorial function
-echo factorial(5); // Output: 120
-
-![Snake animation](https://github.com/gauravc21609/gauravc21609/blob/output/github-contribution-grid-snake.svg)
